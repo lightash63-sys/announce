@@ -1,0 +1,6 @@
+{
+  "name": "Caller Announcer",
+  "description": "Announces caller names aloud for incoming calls, supports TTS customization, driving hands-free mode with auto-reply SMS, and accessibility options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
